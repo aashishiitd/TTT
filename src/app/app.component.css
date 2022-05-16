@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    background-color: black;
+    border-radius: 5px ;
+    padding: 1px ;
+    width: fit-content;
+    margin: 10px auto ;
+    padding: 10px 20px;
+    color: #04fe14;
+}
